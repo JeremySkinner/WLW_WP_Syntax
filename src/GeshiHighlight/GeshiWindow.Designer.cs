@@ -83,6 +83,7 @@
             "csharp",
             "css",
             "diff",
+            "dos",
             "html",
             "ini",
             "java",
